@@ -36,7 +36,7 @@ Cada carpeta contiene un `README.md` con una breve explicación de los notebooks
 ## 👤 Autor
 
 **Juan Carlos Albert Fillol**  
-Máster Universitario en Inteligencia Artificial (UNIR)
-Programa Superior Universitario en Data Engineering (UNIR)
-Grado en Ingeniería de Tecnologías y Servicios de Telecomunicación (UOC)
-Signals Sergeant – Spanish Army
+- Máster Universitario en Inteligencia Artificial (UNIR)
+- Programa Superior Universitario en Data Engineering (UNIR)
+- Grado en Ingeniería de Tecnologías y Servicios de Telecomunicación (UOC)
+- Signals Sergeant – Spanish Army
