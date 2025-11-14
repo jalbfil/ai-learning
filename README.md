@@ -5,8 +5,8 @@ Este repositorio recoge mi proceso de aprendizaje en **Inteligencia Artificial, 
 El objetivo es:
 
 - Consolidar conceptos mediante notebooks y pequeños proyectos.
-- Tener un histórico claro de mi evolución.
-- Servir como referencia para mi yo del futuro y poder repasar conceptos importantes.
+- Tener un histórico.
+- Tener referencias para mi yo del futuro y poder repasar conceptos importantes.
 
 ## 🗂️ Estructura
 
