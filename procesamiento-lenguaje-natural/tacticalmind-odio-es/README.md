@@ -49,7 +49,7 @@ Primeras visualizaciones y estadísticas descriptivas para comprender tendencias
 ---
 
 ## 📁 Estructura del repositorio
-
+```text
 tacticalmind-hate-speech-es/
 ├── README.md
 ├── requirements.txt
