@@ -6,11 +6,11 @@ El estudio utiliza un subconjunto del dataset **"The Dark Face"** para evaluar c
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 El objetivo principal no es solo "aclarar" la imagen, sino recuperar detalles estructurales ocultos en las sombras sin introducir ruido artificial ni degradar la naturalidad de la escena. Se busca responder a la pregunta: **¿Son los métodos automáticos (como la ecualización) siempre la mejor opción?**
 
-## 🛠️ Metodología
+## Metodología
 
 Se ha implementado un pipeline de procesamiento en Python que aplica y compara las siguientes transformaciones:
 
