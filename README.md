@@ -8,7 +8,7 @@ El objetivo es:
 - Tener un histórico.
 - Tener referencias para mi yo del futuro y poder repasar conceptos importantes.
 
-## 🗂️ Estructura
+## Estructura
 
 - `investigacion-gestion-proyectos/` → Ejercicios y prácticas de Investigación y Gestión de Proyectos en IA.
 - `razonamiento-planificacion-automatica/` → Prácticas de representación del conocimiento, lógica, marcos, reglas y planificación automática.
@@ -23,7 +23,7 @@ El objetivo es:
 
 Cada carpeta contiene un `README.md` con una breve explicación de los notebooks.
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 - Python, Jupyter Notebook
 - NumPy, Pandas, Scikit-learn
@@ -33,10 +33,9 @@ Cada carpeta contiene un `README.md` con una breve explicación de los notebooks
 - Docker, MLflow
 - Azure/AWS ML 
 
-## 👤 Autor
+## Autor
 
 **Juan Carlos Albert Fillol**  
 - Máster Universitario en Inteligencia Artificial (UNIR)
 - Programa Superior Universitario en Data Engineering (UNIR)
 - Grado en Ingeniería de Tecnologías y Servicios de Telecomunicación (UOC)
-- Signals Sergeant – Spanish Army
